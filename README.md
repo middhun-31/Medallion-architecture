@@ -31,9 +31,6 @@
 - Scaling considerations for enterprise workloads
 
 
-<div align="center">
-  <img src="visuals/img2-zorder.png" alt="Optimization Overview" width="80%">
-</div>
 
 ## 🛠️ Steps to begin
 
